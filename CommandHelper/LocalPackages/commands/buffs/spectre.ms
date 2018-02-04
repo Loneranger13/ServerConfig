@@ -19,6 +19,8 @@
                 "/create <itemid> <qty>",
                 "/vis",
                 "/invis"
+                "/intangible"
+                "/mindcontrol"
            ),
             'buffs': array(
                 "/effect ". @plr ." 5 9999 20 true",
